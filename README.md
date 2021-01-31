@@ -216,3 +216,4 @@ There are two options to resolve this.
 
 2. Increase `max_user_watches`:\
    See <https://github.com/guard/listen/wiki/Increasing-the-amount-of-inotify-watchers>
+#1
